@@ -1,1 +1,1 @@
-"# ConcordancePublication" 
+This repository consists of publications in PDF format.  The publications are grouped by Arabic Alphabets.  The publication content is an index of verses of Qur'an.  This index is organized first by the Arabic alphabet and secondly, by the root letter of the words.  The attempt is to provide a subject based collection of verses of Qur'an.  The translation of verses is in Urdu Language.
